@@ -1,1 +1,1 @@
-# learn-alchemy-neo4j
+# Netmagic-static-mnp
